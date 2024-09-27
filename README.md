@@ -39,7 +39,6 @@
 - **Desarrollo de APIs RESTful**
 - **Patrones de diseño de software**
 - **Sistemas escalables y de alto rendimiento**
-- **Streaming de videojuegos y tecnologías 4K** (en mis tiempos libres)
 
 ---
 
