@@ -1,18 +1,16 @@
 # 
 ![Banner](github-header-image.png)
 
-## Desarrollador Backend | Node.js | TypeScript | Arquitectura Clean Code
+## Desarrollador Backend | Rust | Node.js | Arquitectura Clean Code & SOLID
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado del desarrollo backend con experiencia en la creación de sistemas robustos y escalables. Me especializo en **Node.js**, **Express** y **TypeScript**, aplicando siempre las mejores prácticas de **clean code** para asegurar un código claro, mantenible y eficiente.
-
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado del desarrollo backend enfocado en construir sistemas de alto rendimiento, seguros y escalables. Me especializo en Rust y TypeScript, aplicando rigurosamente principios de Clean Code y SOLID para crear software que no solo funciona, sino que es robusto y fácil de mantener.
 ---
 
 ### 🚀 Sobre mí
 
-- 🌱 Actualmente, estoy profundizando mis conocimientos en **inyección de dependencias** y patrones de diseño para optimizar la arquitectura de mis proyectos.
-- 🔧 Me encanta trabajar en proyectos backend que requieren **optimización de rendimiento** y **escalabilidad**.
-- 💡 También disfruto implementar configuraciones avanzadas de bases de datos y servidores en la nube.
-
+🌱 Actualmente, estoy migrando y diseñando arquitecturas complejas en Rust, aprovechando su seguridad de memoria y concurrencia. 
+🔧 Me obsesiona la arquitectura de software: implemento patrones como Repository Pattern e Inyección de Dependencias para desacoplar la lógica de negocio. 
+💡 Disfruto orquestando sistemas asíncronos con Workers y colas de tareas para asegurar que el usuario nunca espere.
 ---
 
 ### 🛠️ Habilidades Técnicas
