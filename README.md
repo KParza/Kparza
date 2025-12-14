@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Banner]((https://github.com/KParza/Kparza/blob/main/github-header-image.png)) 
+![Banner](./banner.png)
   # ¡Hola! Soy un Desarrollador Backend 🦀
 
   ### Rust | Node.js | Arquitectura de Software
