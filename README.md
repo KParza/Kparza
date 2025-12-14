@@ -68,7 +68,7 @@ API escalable diseñada para alta disponibilidad.
 <div align="center">
   <p>✨ ¡Siempre abierto a colaborar en proyectos desafiantes donde la calidad del código sea la prioridad! ✨</p>
   
-  <a href="mailto:tu-email@ejemplo.com">
+  <a href="mailto:krisparz@pm.me">
     <img src="https://img.shields.io/badge/Contactame-Email-red?style=flat-square&logo=gmail" alt="Email" />
   </a>
 </div>
