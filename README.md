@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](./github-header-image.png)
+![Banner](./github-header-banner.png)
   # ¡Hola! Soy un Desarrollador Backend 🦀
 
   ### Rust | Node.js | Arquitectura de Software
